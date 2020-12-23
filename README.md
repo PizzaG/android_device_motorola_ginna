@@ -1,1 +1,1 @@
-# android_device_motorola_ginna
+# Simply Select The Correct Branch
